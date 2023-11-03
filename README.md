@@ -43,3 +43,20 @@ I was not able to locate company specifics reagarding ROI, NOI or LTV.
 I would recommend Skyline AI to create a neural network as part of their data processing. This would allow them to make deep learning predicitions that would more closely resemble human thought and could potentially give their investors the sense of trust and confidence the their predicitons. 
 
 Utilizing a neural network would allow Skyline to create a deep learning model that would get better over time as the network processes more and more data. 
+
+## Sources
+
+
+https://www.skyline.ai/about
+
+https://www.cbinsights.com/company/skyline-ai/alternatives-competitors
+
+https://medium.com/skyline-ai/sequencing-the-dna-of-real-estate-an-ai-driven-approach-for-comparing-assets-a867dbfd6eb3
+
+https://www.crunchbase.com/organization/skyline-ai
+
+https://www.wealthmanagement.com/investment/look-size-global-commercial-real-estate-market
+
+https://pitchbook.com/profiles/company/180125-29#funding
+
+https://finder.startupnationcentral.org/company_page/skyline-ai
