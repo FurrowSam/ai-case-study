@@ -26,7 +26,7 @@ Powered with natuarl language processing and high-performance data infastructure
 
 Skyline is centered in Commercial Real Estate Investment and Management. 
 
-The introduction of data management and AI to allow for a more accurate and much quicker analysis of potentail property investments and provide in depth comparisons of similar real estate opportunities in a given market has been a hug innovation in the industry in recent years. 
+The introduction of data management and AI to allow for a more accurate and much quicker analysis of potentail property investments and provide in depth comparisons of similar real estate opportunities in a given market has been a huge innovation in the industry in recent years. 
 
 Skyline AI's top competitors include GeoPhy, Cherre, and Oaktree Capital Management.
 
